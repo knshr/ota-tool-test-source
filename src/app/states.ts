@@ -1,1 +1,1 @@
-export const STATES = ["OK", "TX", "KS"];
+export const STATES = ["OK", "TX", "KS", "CO", "FL"];
